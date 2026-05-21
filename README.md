@@ -32,22 +32,22 @@ Outside of class, I am the Research Lead for the Atombot Swarm Robotics & Collec
 #### 🔌 [Helium Robotics Backbone](#)
 * Engineered a custom PCB SoM based on the RP2350B, successfully pivoting from a software-based CAN to a hardware-based CAN controller.
 * Expanded motor control capacity from 12 to 16 QDD actuators for real-time execution.
-* <p align="left"><img width="1338" height="1112" alt="image" src="https://github.com/user-attachments/assets/027fe901-6316-4e39-90a5-34c9062f4b44" /></p>
+<p align="left"><img width="1338" height="1112" alt="image" src="https://github.com/user-attachments/assets/027fe901-6316-4e39-90a5-34c9062f4b44" /></p>
 
 #### 👁️ [Camera-LiDAR Sensor Fusion](#)
 * Built foundational SLAM pipelines in ROS2 and C++, integrating Intel RealSense RGB-D cameras with Unitree 3D LiDAR for autonomous mapping and navigation.
-* <p align="left"><img width="100%" max-width="800px" alt="Sensor Fusion Mapping" src="https://github.com/user-attachments/assets/e714679b-07e2-487a-aead-b7d83089a5e1" /></p>
+<p align="left"><img width="100%" max-width="800px" alt="Sensor Fusion Mapping" src="https://github.com/user-attachments/assets/e714679b-07e2-487a-aead-b7d83089a5e1" /></p>
 
 #### ⚛️ [Football_VQC](https://github.com/jverga13/Football_VQC)
 > 🏆 **Audience Favorite Award** @ IEEE ISIT 2025 Quantum Hackathon
 * Developed a Quantum Kernel SVM using PennyLane and Qiskit to predict football play types with 75% accuracy.
 * 📝 [View Presentation Slides](https://docs.google.com/presentation/d/19lFTizXrJibAHzbb0QcDxxeVLxZSa1kPTX1Ex-gvqhI/edit?usp=sharing)
-* <p align="left"><img width="100%" max-width="800px" alt="Quantum Hackathon Presentation" src="https://github.com/user-attachments/assets/4222c099-d50e-4fb5-bbbb-4d14e47788c2" /></p>
+<p align="left"><img width="100%" max-width="800px" alt="Quantum Hackathon Presentation" src="https://github.com/user-attachments/assets/4222c099-d50e-4fb5-bbbb-4d14e47788c2" /></p>
 
 #### 📱 [MGoMom](https://github.com/jverga13/MGoMom)
 * Developed a full-stack, responsive web application for personalized student support.
 * Integrated an admin dashboard alongside an automated SMS notification system.
-* <p align="left"><img width="100%" max-width="800px" alt="MGoMom App Interface" src="https://github.com/user-attachments/assets/b6b08d92-8273-42b4-8c86-cb23395ed35b" /></p>
+<p align="left"><img width="100%" max-width="800px" alt="MGoMom App Interface" src="https://github.com/user-attachments/assets/b6b08d92-8273-42b4-8c86-cb23395ed35b" /></p>
 
 ---
 
