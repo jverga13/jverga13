@@ -17,6 +17,7 @@ Outside of class I am Research Lead for Z-Lab: Atombot: Swarm Robotics & Collect
 
 **Hardware & Robotics:**
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![KiCad](https://shields.io)
 ![Altium Designer](https://img.shields.io/badge/Altium-A5A5A5?style=flat&logo=altium&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32526?style=flat&logo=dassault-systemes&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
