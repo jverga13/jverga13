@@ -4,7 +4,7 @@
 
 I am a Computer Engineering honors student at the **University of Michigan** (B.S. '28) focused on bridging the gap between high-level autonomous decision-making and low-level hardware execution. 
 
-Currently, I'm based in **San Sebastián, Spain**, working as a Research Lead/Intern at Z-Lab & Tecnun-Ceit, where I architect custom silicon (RP2350B SoM) and build LiDAR-camera SLAM systems for swarm robotics.
+Outside of class I am Research Lead for Z-Lab: Atombot: Swarm Robotics & Collective Intelligence Lab, where I architect custom boards and firmware for our robots compute stage and build LiDAR-camera SLAM systems for swarm robotics.
 
 ### 🛠️ Tech Stack & Tools
 
