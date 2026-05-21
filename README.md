@@ -32,6 +32,7 @@ Outside of class, I am the Research Lead for the Atombot Swarm Robotics & Collec
 #### 🔌 [Helium Robotics Backbone](#)
 * Engineered a custom PCB SoM based on the RP2350B, successfully pivoting from a software-based CAN to a hardware-based CAN controller.
 * Expanded motor control capacity from 12 to 16 QDD actuators for real-time execution.
+* <p align="left"><img width="1338" height="1112" alt="image" src="https://github.com/user-attachments/assets/027fe901-6316-4e39-90a5-34c9062f4b44" /></p>
 
 #### 👁️ [Camera-LiDAR Sensor Fusion](#)
 * Built foundational SLAM pipelines in ROS2 and C++, integrating Intel RealSense RGB-D cameras with Unitree 3D LiDAR for autonomous mapping and navigation.
