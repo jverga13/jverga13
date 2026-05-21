@@ -53,5 +53,5 @@ Outside of class, I am the Research Lead for the Atombot Swarm Robotics & Collec
 
 ### 📬 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=google-chrome&logoColor=white)]([https://YOUR_PORTFOLIO_LINK_HERE](https://jverga-portfolio.web.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=google-chrome&logoColor=white)]([https://jverga-portfolio.web.app/])
 [![Email](https://img.shields.io/badge/Email-jverga%40umich.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jverga@umich.edu)
