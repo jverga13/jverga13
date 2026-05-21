@@ -25,16 +25,10 @@ Outside of class I am Research Lead for Z-Lab: Atombot: Swarm Robotics & Collect
 
 ### 🚀 Featured Engineering Projects
 
-*   🔌 **[Helium Robotics Backbone](https://github.com/Z-Laboratory/Helium-PCBs):** Engineered a custom PCB SoM based on the RP2350B, successfully pivoting from software CAN to a hardware-based CAN controller. Expanded motor control capacity from 12 to 16 QDD actuators for real-time execution.
-*   👁️ **[Camera-LiDAR Sensor Fusion](https://github.com/jverga13/CameraANDLiDAR):** Built foundational SLAM pipelines in ROS2 and C++, integrating Intel RealSense RGB-D cameras with Unitree 3D LiDAR for autonomous mapping and navigation.
+*   🔌 **[Helium Robotics Backbone](Not able to show due to NDA):** Engineered a custom PCB SoM based on the RP2350B, successfully pivoting from software CAN to a hardware-based CAN controller. Expanded motor control capacity from 12 to 16 QDD actuators for real-time execution.
+*   👁️ **[Camera-LiDAR Sensor Fusion](Not able to show due to NDA):** Built foundational SLAM pipelines in ROS2 and C++, integrating Intel RealSense RGB-D cameras with Unitree 3D LiDAR for autonomous mapping and navigation.
 *   ⚛️ **[Football_VQC](https://github.com/jverga13/Football_VQC):** *Audience Favorite Award @ IEEE ISIT 2025 Quantum Hackathon.* Developed a Quantum Kernel SVM using PennyLane and Qiskit to predict play types with 75% accuracy.
 *   📱 **[MGoMom](https://github.com/jverga13/MGoMom):** Full-stack responsive web application for personalized student support, featuring an admin dashboard and SMS notification system.
-
-### 📈 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jverga13&show_icons=true&theme=nord&hide_border=true&title_color=4C566A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jverga13&layout=compact&theme=nord&hide_border=true&title_color=4C566A" />
-</p>
 
 ### 📬 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK_HERE)
